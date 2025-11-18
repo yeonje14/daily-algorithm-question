@@ -1,28 +1,28 @@
 # [Bronze V] A-B - 1001 
 
-[Question Link](https://www.acmicpc.net/problem/1001) 
+[문제 링크](https://www.acmicpc.net/problem/1001) 
 
-### Performance Summary
+### 성능 요약
 
-Memory: 17680 KB, Time: 168 ms
+메모리: 32412 KB, 시간: 40 ms
 
-### Categories
+### 분류
 
-Implementaion, Arithmetic, Mathematics
+구현, 사칙연산, 수학
 
-### Submission Date
+### 제출 일자
 
-2025-11-18 20:52:40
+2025년 11월 18일 21:17:37
 
-### Problem Description 
+### 문제 설명
 
-<p>Write a program that takes two integers A and B as input, and outputs A - B</p>
+<p>두 정수 A와 B를 입력받은 다음, A-B를 출력하는 프로그램을 작성하시오.</p>
 
-### Input
+### 입력 
 
- <p>The first line contains two integers(0 < A, B < 10)</p>
+ <p>첫째 줄에 A와 B가 주어진다. (0 < A, B < 10)</p>
 
-### Output
+### 출력 
 
- <p>Print A - B on the first line.</p>
+ <p>첫째 줄에 A-B를 출력한다.</p>
 
