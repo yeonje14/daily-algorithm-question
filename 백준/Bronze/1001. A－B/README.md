@@ -1,7 +1,7 @@
 # [Bronze V] A-B - 1001 
 
 [Problem Link](https://www.acmicpc.net/problem/1001) 
->>>>>>> 033d70f (Update algorithm solutions)
+
 
 ### Performance Summary
 
@@ -19,12 +19,12 @@ Implementation, Arithmetic, Mathematics
 
 
 <p>Write a program that takes two integers A and B as input, and outputs A - B.</p>
->>>>>>> 033d70f (Update algorithm solutions)
+
 
 ### Input 
 
  <p>The first line contains two integers.(0 < A, B < 10)</p>
->>>>>>> 033d70f (Update algorithm solutions)
+
 
 ### Output 
 
