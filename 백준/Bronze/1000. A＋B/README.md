@@ -1,28 +1,29 @@
 # [Bronze V] A+B - 1000 
 
-[문제 링크](https://www.acmicpc.net/problem/1000) 
+[Question Link](https://www.acmicpc.net/problem/1000) 
 
-### 성능 요약
+### Performance Summary
 
-메모리: 32412 KB, 시간: 40 ms
+Memory : 32412 KB, Time: 40 ms
 
-### 분류
+### Categories
 
-구현, 사칙연산, 수학
+implementaion, Arithmetic, Mathematics
 
-### 제출 일자
+### Submission Date
 
-2025년 11월 18일 20:51:06
+2025-11-18 20:51:06
 
-### 문제 설명
+### Problem Description
 
-<p>두 정수 A와 B를 입력받은 다음, A+B를 출력하는 프로그램을 작성하시오.</p>
+<p>Write a program that takes two integers A and B as input, and outputs the result of A + B.</p>
 
-### 입력 
 
- <p>첫째 줄에 A와 B가 주어진다. (0 < A, B < 10)</p>
+### Input
 
-### 출력 
+ <p>The first line contains two integers (0 < A, B < 10)</p>
 
- <p>첫째 줄에 A+B를 출력한다.</p>
+### Output
+
+ <p>Print A + B on the first line</p>
 
