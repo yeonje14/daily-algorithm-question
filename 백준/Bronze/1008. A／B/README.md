@@ -15,10 +15,10 @@ Implementaion, Arithemetic, Mathemetic
 
 <p>Write a program that takes two integers A and B as input, and outputs the result of A / B.</p>
 
-### 입력 
+### Input
 
  <p>The first line contains two integers A and B. (0 < A, B < 10)</p>
 
-### 출력 
+### Output
 
  <p>Print A / B on the first line. Your answer will be considered correct if the absolute or relative error is less than or equal to 10<sup>-9</sup> </p>
