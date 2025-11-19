@@ -10,9 +10,6 @@ Memory : 32412 KB, Time: 40 ms
 
 implementaion, Arithmetic, Mathematics
 
-### Submission Date
-
-2025-11-18 20:51:06
 
 ### Problem Description
 

@@ -10,9 +10,6 @@ Memory: 32412 KB, Time: 32 ms
 
 Implementaion
 
-### Submission Date
-
-2025-11-18 20:31:37
 
 ### Problem Description
 

@@ -11,9 +11,6 @@ Memory: 32412 KB, Time: 40 ms
 
 Implementation, Arithmetic, Mathematics
 
-### Submission Date
-
-2025-11-18 21:17:37
 
 ### Problem Description
 

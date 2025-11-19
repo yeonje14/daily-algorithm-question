@@ -1,28 +1,24 @@
 # [Bronze V] A/B - 1008 
 
-[문제 링크](https://www.acmicpc.net/problem/1008) 
+[Problem Link](https://www.acmicpc.net/problem/1008) 
 
-### 성능 요약
+### Performance Summary
 
-메모리: 1112 KB, 시간: 0 ms
+Memory: 1112 KB, Time: 0 ms
 
-### 분류
+### Categories
 
-구현, 사칙연산, 수학
+Implementaion, Arithemetic, Mathemetic
 
-### 제출 일자
 
-2024년 9월 10일 16:57:46
+### Problem Description
 
-### 문제 설명
-
-<p>두 정수 A와 B를 입력받은 다음, A/B를 출력하는 프로그램을 작성하시오.</p>
+<p>Write a program that takes two integers A and B as input, and outputs the result of A / B.</p>
 
 ### 입력 
 
- <p>첫째 줄에 A와 B가 주어진다. (0 < A, B < 10)</p>
+ <p>The first line contains two integers A and B. (0 < A, B < 10)</p>
 
 ### 출력 
 
- <p>첫째 줄에 A/B를 출력한다. 실제 정답과 출력값의 절대오차 또는 상대오차가 10<sup>-9</sup> 이하이면 정답이다.</p>
-
+ <p>Print A / B on the first line. Your answer will be considered correct if the absolute or relative error is less than or equal to 10<sup>-9</sup> </p>

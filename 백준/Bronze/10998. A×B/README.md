@@ -1,28 +1,24 @@
 # [Bronze V] A×B - 10998 
 
-[문제 링크](https://www.acmicpc.net/problem/10998) 
+[Problem Link](https://www.acmicpc.net/problem/10998) 
 
-### 성능 요약
+### Performance Summary
 
-메모리: 1112 KB, 시간: 0 ms
+Memory: 1112 KB, Time: 0 ms
 
-### 분류
+### Categories
 
-구현, 사칙연산, 수학
+Implementaion, Arithmetics, Mathemetics
 
-### 제출 일자
+### Problem Description
 
-2025년 11월 19일 12:39:44
+<p>Write a program that takes two integers A and B as input, and outputs the result of A * B.</p>
 
-### 문제 설명
+### Input
 
-<p>두 정수 A와 B를 입력받은 다음, A×B를 출력하는 프로그램을 작성하시오.</p>
+ <p>The first line contains two integers A and B. (0 < A, B < 10)</p>
 
-### 입력 
+### Output
 
- <p>첫째 줄에 A와 B가 주어진다. (0 < A, B < 10)</p>
-
-### 출력 
-
- <p>첫째 줄에 A×B를 출력한다.</p>
+ <p>Print A * B on the first line.</p>
 

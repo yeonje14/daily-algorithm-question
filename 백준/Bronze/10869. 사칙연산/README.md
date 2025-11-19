@@ -1,28 +1,23 @@
-# [Bronze V] 사칙연산 - 10869 
+# [Bronze V] Four basic operations - 10869 
 
-[문제 링크](https://www.acmicpc.net/problem/10869) 
+[Problem Link](https://www.acmicpc.net/problem/10869) 
 
-### 성능 요약
+### Performance Summary
 
-메모리: 32412 KB, 시간: 44 ms
+Memory: 32412 KB, Time: 44 ms
 
-### 분류
+### Categories
 
-구현, 사칙연산, 수학
+Implementaion, Arithmetics, Mathemetics
 
-### 제출 일자
+### Problem Description
 
-2025년 11월 19일 12:45:09
+<p>Given two natural numbers A and B, write a program that outputs the following results: A + B, A - B, A * B, A / B, A % B </p>
 
-### 문제 설명
+### Input
 
-<p>두 자연수 A와 B가 주어진다. 이때, A+B, A-B, A*B, A/B(몫), A%B(나머지)를 출력하는 프로그램을 작성하시오. </p>
+ <p>Two natural integers A and B are given (1 ≤ A, B ≤ 10,000)</p>
 
-### 입력 
+### Output
 
- <p>두 자연수 A와 B가 주어진다. (1 ≤ A, B ≤ 10,000)</p>
-
-### 출력 
-
- <p>첫째 줄에 A+B, 둘째 줄에 A-B, 셋째 줄에 A*B, 넷째 줄에 A/B, 다섯째 줄에 A%B를 출력한다.</p>
-
+ <p>Print the results in the following order: A + B, A - B, A * B, A / B, A % B </p>
