@@ -1,32 +1,27 @@
-# [Bronze V] 나머지 - 10430 
+# [Bronze V] Reminder - 10430 
 
-[문제 링크](https://www.acmicpc.net/problem/10430) 
+[Problem Link](https://www.acmicpc.net/problem/10430) 
 
-### 성능 요약
+### Performance summary
 
-메모리: 1112 KB, 시간: 0 ms
+Memory: 1112 KB, Time: 0 ms
 
-### 분류
+### Categories
 
-구현, 사칙연산, 수학
+Implementation, Arithmetic, Mathematics
 
-### 제출 일자
+### Problem Description
 
-2024년 9월 10일 17:25:30
+<p>Is (A+B)%C equal to ((A%C) + (B%C))%C?</p>
 
-### 문제 설명
+<p>Is (A×B)%C equal to ((A%C) × (B%C))%C?</p>
 
-<p>(A+B)%C는 ((A%C) + (B%C))%C 와 같을까?</p>
+<p>Given three numbers A, B, and C, write a program to compute the four values described above.</p>
 
-<p>(A×B)%C는 ((A%C) × (B%C))%C 와 같을까?</p>
+### Input
 
-<p>세 수 A, B, C가 주어졌을 때, 위의 네 가지 값을 구하는 프로그램을 작성하시오.</p>
+ <p>The first line contains three integers A, B, and C in order. (2 ≤ A, B, C ≤ 10000)</p>
 
-### 입력 
+### Output
 
- <p>첫째 줄에 A, B, C가 순서대로 주어진다. (2 ≤ A, B, C ≤ 10000)</p>
-
-### 출력 
-
- <p>첫째 줄에 (A+B)%C, 둘째 줄에 ((A%C) + (B%C))%C, 셋째 줄에 (A×B)%C, 넷째 줄에 ((A%C) × (B%C))%C를 출력한다.</p>
-
+ <p>Print the following four results, one per line: (A+B)%C, ((A%C) + (B%C))%C, (A×B)%C, ((A%C) × (B%C))%C.</p>

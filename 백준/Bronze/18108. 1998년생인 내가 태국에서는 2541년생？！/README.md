@@ -1,30 +1,27 @@
-# [Bronze V] 1998년생인 내가 태국에서는 2541년생?! - 18108 
+# [Bronze V] I wan Born in 1998, but in Thailand I'm 2541?! - 18108 
 
-[문제 링크](https://www.acmicpc.net/problem/18108) 
+[Problem Link](https://www.acmicpc.net/problem/18108) 
 
-### 성능 요약
+### Performance summary
 
-메모리: 32412 KB, 시간: 40 ms
+Memory: 32412 KB, Time: 40 ms
 
-### 분류
+### Categories
 
-수학, 사칙연산
+Mathematics, Arithmetic
 
-### 제출 일자
+### Problem Description
 
-2025년 11월 20일 14:11:27
+<p>The Redshift team, javing just arrived at suvarnabhumi International Airport to participate in the ICPC Bangkok Regional Contest, could not believe their eyes. The large screen at the airport displayed the current year as 2563.</p>
 
-### 문제 설명
+<p>Thailand, being a Buddhist country, uses the Buddhist Era (BE), which counts years based on the death of Buddha. In contrast, korea uses the Gregorian calendar (AD). Given a year in the Buddhist calenday, write a program to convert it to the Gregorian year.</p>
 
-<p>ICPC Bangkok Regional에 참가하기 위해 수완나품 국제공항에 막 도착한 팀 레드시프트 일행은 눈을 믿을 수 없었다. 공항의 대형 스크린에 올해가 2562년이라고 적혀 있던 것이었다.</p>
+### Input
 
-<p>불교 국가인 태국은 불멸기원(佛滅紀元), 즉 석가모니가 열반한 해를 기준으로 연도를 세는 불기를 사용한다. 반면, 우리나라는 서기 연도를 사용하고 있다. 불기 연도가 주어질 때 이를 서기 연도로 바꿔 주는 프로그램을 작성하시오.</p>
+ <p>A single integer <em>y</em>is given, representing a year in the Buddhist Era. (1000 ≤ <em>y</em> ≤ 3000)</p>
 
-### 입력 
+### Output
 
- <p>서기 연도를 알아보고 싶은 불기 연도 <em>y</em>가 주어진다. (1000 ≤ <em>y</em> ≤ 3000)</p>
+ <p>Print the corresponding Gregorian year after converting from the Buddhist Era.</p>
 
-### 출력 
-
- <p>불기 연도를 서기 연도로 변환한 결과를 출력한다.</p>
 

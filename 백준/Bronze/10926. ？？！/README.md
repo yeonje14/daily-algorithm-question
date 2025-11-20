@@ -1,28 +1,23 @@
 # [Bronze V] ??! - 10926 
 
-[문제 링크](https://www.acmicpc.net/problem/10926) 
+[Problem Link](https://www.acmicpc.net/problem/10926) 
 
-### 성능 요약
+### Performance Summary
 
-메모리: 32412 KB, 시간: 36 ms
+Memory: 32412 KB, Time: 36 ms
 
-### 분류
+### Categories
 
-구현
+Implementation
 
-### 제출 일자
+### Problem Description
 
-2025년 11월 20일 14:09:47
+<p>While signing up on a websire, Joonas was shocked to find that the username "joonas" was already taken. Joonas expresses his surprise with the string "??!". Given the username that already exists on the site, write a program that outputs Joonas's reaction.</p>
 
-### 문제 설명
+### Input
 
-<p>준하는 사이트에 회원가입을 하다가 joonas라는 아이디가 이미 존재하는 것을 보고 놀랐다. 준하는 놀람을 ??!로 표현한다. 준하가 가입하려고 하는 사이트에 이미 존재하는 아이디가 주어졌을 때, 놀람을 표현하는 프로그램을 작성하시오.</p>
+ <p>The first line contains the username that already exists on the site. The username consists only of lowercase English letters and is no longer than 50 characters.</p>
 
-### 입력 
+### Output 
 
- <p>첫째 줄에 준하가 가입하려고 하는 사이트에 이미 존재하는 아이디가 주어진다. 아이디는 알파벳 소문자로만 이루어져 있으며, 길이는 50자를 넘지 않는다.</p>
-
-### 출력 
-
- <p>첫째 줄에 준하의 놀람을 출력한다. 놀람은 아이디 뒤에 ??!를 붙여서 나타낸다.</p>
-
+ <p>On the first line, print Joonas's surprise reaction. This is done by appending "??!" to the given username.</p>
