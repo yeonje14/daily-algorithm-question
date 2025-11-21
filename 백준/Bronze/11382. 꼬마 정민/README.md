@@ -1,28 +1,28 @@
-# [Bronze V] 꼬마 정민 - 11382 
+# [Bronze V] Little jeonmin - 11382 
 
-[문제 링크](https://www.acmicpc.net/problem/11382) 
+[Problem Link](https://www.acmicpc.net/problem/11382) 
 
-### 성능 요약
+### Performance Summary
 
-메모리: 17696 KB, 시간: 172 ms
+Memory: 17696 KB, Time: 172 ms
 
-### 분류
+### Categories
 
-구현, 사칙연산, 수학
+Implementation, Arithmetics, Mathemetics
 
-### 제출 일자
+### Problem Description
 
-2025년 11월 21일 23:47:42
+<p>Little Jeongmin can now easily calculate expressions like A + B.  
+Now it is time for him to calculate A + B + C!</p>
 
-### 문제 설명
+### Input
 
-<p>꼬마 정민이는 이제 A + B 정도는 쉽게 계산할 수 있다. 이제 A + B + C를 계산할 차례이다!</p>
+<p>Little Jeongmin can now easily calculate expressions like A + B.  
+Now it is time for him to calculate A + B + C!</p>
 
-### 입력 
 
- <p>첫 번째 줄에 A, B, C (1 ≤ A, B, C ≤ 10<sup>12</sup>)이 공백을 사이에 두고 주어진다.</p>
+### Output
 
-### 출력 
+<p>Print the value of A + B + C.</p>
 
- <p>A+B+C의 값을 출력한다.</p>
 

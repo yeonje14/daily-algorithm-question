@@ -1,32 +1,28 @@
-# [Bronze III] 곱셈 - 2588 
+# [Bronze III] Multipication - 2588 
 
-[문제 링크](https://www.acmicpc.net/problem/2588) 
+[Problem Link](https://www.acmicpc.net/problem/2588) 
 
-### 성능 요약
+### Performance Summary
 
-메모리: 17664 KB, 시간: 168 ms
+Memory: 17664 KB, Time: 168 ms
 
-### 분류
+### Categories
 
-사칙연산, 수학
+Arithmetics, Mathmetics
 
-### 제출 일자
+### Problem Description
 
-2025년 11월 21일 23:46:15
-
-### 문제 설명
-
-<p>(세 자리 수) × (세 자리 수)는 다음과 같은 과정을 통하여 이루어진다.</p>
+<p>The multiplication of a three-digit number by another three-digit number is carried out through the following process.</p>
 
 <p style="text-align: center;"><img alt="" src="" style="width: 306px; height: 183px; "></p>
 
-<p>(1)과 (2)위치에 들어갈 세 자리 자연수가 주어질 때 (3), (4), (5), (6)위치에 들어갈 값을 구하는 프로그램을 작성하시오.</p>
+<p>When the three-digit natural numbers for positions (1) and (2) are given, write a program to compute the values that go into positions (3), (4), (5), and (6).</p>
 
-### 입력 
+### Input
 
- <p>첫째 줄에 (1)의 위치에 들어갈 세 자리 자연수가, 둘째 줄에 (2)의 위치에 들어갈 세자리 자연수가 주어진다.</p>
+ <p>The first line contains the three-digit natural number that goes into position (1), and the second line contains the three-digit natural number that goes into position (2).</p>
 
-### 출력 
+### Output
 
- <p>첫째 줄부터 넷째 줄까지 차례대로 (3), (4), (5), (6)에 들어갈 값을 출력한다.</p>
+<p>From the first line to the fourth line, print the values that correspond to positions (3), (4), (5), and (6), in order.</p>
 
