@@ -24,7 +24,7 @@ and all other scores → F.</p>
 
  <p>The first line contains the exam score. The score is an integer greater than or equal to 0 and less than or equal to 100.</p>
 
-### 출력 
+### Output
 
  <p>Print the Exam score.</p>
 
