@@ -14,8 +14,6 @@ Arithmetics, Mathmetics
 
 <p>The multiplication of a three-digit number by another three-digit number is carried out through the following process.</p>
 
-<p style="text-align: center;"><img alt="" src="" style="width: 306px; height: 183px; "></p>
-
 <p>When the three-digit natural numbers for positions (1) and (2) are given, write a program to compute the values that go into positions (3), (4), (5), and (6).</p>
 
 ### Input

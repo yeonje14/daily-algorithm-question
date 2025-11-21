@@ -1,28 +1,24 @@
-# [Bronze V] 개 - 10172 
+# [Bronze V] Dog - 10172 
 
-[문제 링크](https://www.acmicpc.net/problem/10172) 
+[Problem Link](https://www.acmicpc.net/problem/10172) 
 
-### 성능 요약
+### Performance Summary
 
-메모리: 32412 KB, 시간: 32 ms
+Memory: 32412 KB, Time: 32 ms
 
-### 분류
+### Categories
 
-구현
+Implementation
 
-### 제출 일자
+### Problem Description
 
-2025년 11월 22일 00:04:58
+<p>Print a dog as shown in the example below.</p>
 
-### 문제 설명
+### Input
 
-<p>아래 예제와 같이 개를 출력하시오.</p>
+ <p>None.</p>
 
-### 입력 
+### Output
 
- <p>없음.</p>
-
-### 출력 
-
- <p>개를 출력한다.</p>
+ <p>Print a dog.</p>
 

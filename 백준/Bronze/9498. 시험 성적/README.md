@@ -1,28 +1,30 @@
-# [Bronze V] 시험 성적 - 9498 
+# [Bronze V] Exam Score - 9498 
 
-[문제 링크](https://www.acmicpc.net/problem/9498) 
+[Problem Link](https://www.acmicpc.net/problem/9498) 
 
-### 성능 요약
+### Performance Summary
 
-메모리: 17716 KB, 시간: 184 ms
+Memory: 17716 KB, Time: 184 ms
 
-### 분류
+### Categories
 
-구현
+Implementation
 
-### 제출 일자
+### Problem Description
 
-2025년 11월 22일 00:07:04
+<p>Write a program that takes an exam score as input and outputs a grade as follows:  
+90–100 → A,  
+80–89 → B,  
+70–79 → C,  
+60–69 → D,  
+and all other scores → F.</p>
 
-### 문제 설명
 
-<p>시험 점수를 입력받아 90 ~ 100점은 A, 80 ~ 89점은 B, 70 ~ 79점은 C, 60 ~ 69점은 D, 나머지 점수는 F를 출력하는 프로그램을 작성하시오.</p>
+### Input
 
-### 입력 
-
- <p>첫째 줄에 시험 점수가 주어진다. 시험 점수는 0보다 크거나 같고, 100보다 작거나 같은 정수이다.</p>
+ <p>The first line contains the exam score. The score is an integer greater than or equal to 0 and less than or equal to 100.</p>
 
 ### 출력 
 
- <p>시험 성적을 출력한다.</p>
+ <p>Print the Exam score.</p>
 
