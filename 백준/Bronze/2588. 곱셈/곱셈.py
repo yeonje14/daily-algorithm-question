@@ -1,0 +1,10 @@
+a = int(input())
+b = int(input())
+hundread = int(b/100)
+ten = int((b%100)/10)
+one = int(b%10)
+
+print(one * a)
+print(ten * a)
+print(hundread * a)
+print(b * a)
