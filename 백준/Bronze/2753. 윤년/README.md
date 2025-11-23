@@ -25,3 +25,4 @@ Implementation, Arthimetics, Mathmetics
 ### Output 
 
  <p>Print 1 if the given year is a leap year; otherwise, print 0.</p>
+
