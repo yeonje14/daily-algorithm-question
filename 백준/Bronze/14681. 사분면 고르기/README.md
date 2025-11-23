@@ -1,34 +1,28 @@
-# [Bronze V] 사분면 고르기 - 14681 
+# [Bronze V] Choose the Quadrant  - 14681 
 
-[문제 링크](https://www.acmicpc.net/problem/14681) 
+[Problem Link](https://www.acmicpc.net/problem/14681) 
 
-### 성능 요약
+### Performance Summary
 
-메모리: 1112 KB, 시간: 0 ms
+Memory: 1112 KB, Time: 0 ms
 
-### 분류
+### Categories
 
-구현, 기하학
+Implementaion, Geometry
 
-### 제출 일자
+### Problem Description
 
-2025년 11월 23일 12:32:58
+<p>One of the most common math problems is determining which quadrant a given point belongs to. As shown in the diagram, the quadrants are numbered from 1 to 4. "Quadrant n" means "the n-th quadrant."</p>
 
-### 문제 설명
+<p>For example, point A with coordinates (12, 5) lies in the 1st quadrant because both its x-coordinate and y-coordinate are positive. Point B, whose x-coordinate is negative and y-coordinate is positive, is in the 2nd quadrant.</p>
 
-<p>흔한 수학 문제 중 하나는 주어진 점이 어느 사분면에 속하는지 알아내는 것이다. 사분면은 아래 그림처럼 1부터 4까지 번호를 갖는다. "Quadrant n"은 "제n사분면"이라는 뜻이다.</p>
+<p>Write a program that takes the coordinates of a point and determines which quadrant it belongs to. You may assume that both x and y are non-zero integers.</p>
 
-<p style="text-align: center;"><img alt="" src="" style="width: 276px; height: 200px;"></p>
+### Input
 
-<p>예를 들어, 좌표가 (12, 5)인 점 A는 x좌표와 y좌표가 모두 양수이므로 제1사분면에 속한다. 점 B는 x좌표가 음수이고 y좌표가 양수이므로 제2사분면에 속한다.</p>
+ <p>The first line contains an interger X. And the second line contains an integer y . (−1000 ≤ x,y ≤ 1000; x, y ≠ 0)</p>
 
-<p>점의 좌표를 입력받아 그 점이 어느 사분면에 속하는지 알아내는 프로그램을 작성하시오. 단, x좌표와 y좌표는 모두 양수나 음수라고 가정한다.</p>
+### Print
 
-### 입력 
-
- <p>첫 줄에는 정수 x가 주어진다. (−1000 ≤ x ≤ 1000; x ≠ 0) 다음 줄에는 정수 y가 주어진다. (−1000 ≤ y ≤ 1000; y ≠ 0)</p>
-
-### 출력 
-
- <p>점 (x, y)의 사분면 번호(1, 2, 3, 4 중 하나)를 출력한다.</p>
+ <p>Print the quadrant number (1, 2, 3, or 4) where the point (x, y) is located.</p>
 
