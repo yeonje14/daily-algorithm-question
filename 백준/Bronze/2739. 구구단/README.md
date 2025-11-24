@@ -1,28 +1,24 @@
-# [Bronze V] 구구단 - 2739 
+# [Bronze V] Multiplication Table - 2739 
 
-[문제 링크](https://www.acmicpc.net/problem/2739) 
+[Problem Link](https://www.acmicpc.net/problem/2739) 
 
-### 성능 요약
+### Performance Summary
 
-메모리: 1112 KB, 시간: 0 ms
+Memory: 1112 KB, Time: 0 ms
 
-### 분류
+### Categories
 
-구현, 수학
+Implementaion, Math
 
-### 제출 일자
+### Problem Description.
 
-2021년 11월 26일 19:55:39
+<p>Given an integer N, write a program that prints the multiplication table for N. The output must match the required format.</p>
 
-### 문제 설명
+### Input
 
-<p>N을 입력받은 뒤, 구구단 N단을 출력하는 프로그램을 작성하시오. 출력 형식에 맞춰서 출력하면 된다.</p>
+ <p>The first line contains the integer N. N is between 1 and 9, inclusive.</p>
 
-### 입력 
+### Output
 
- <p>첫째 줄에 N이 주어진다. N은 1보다 크거나 같고, 9보다 작거나 같다.</p>
-
-### 출력 
-
- <p>출력형식과 같게 N*1부터 N*9까지 출력한다.</p>
+ <p>Print the results from N * 1 through N * 9, following the specified output format.</p>
 
