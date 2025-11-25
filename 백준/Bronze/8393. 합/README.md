@@ -1,28 +1,24 @@
-# [Bronze V] 합 - 8393 
+# [Bronze V] Add - 8393 
 
-[문제 링크](https://www.acmicpc.net/problem/8393) 
+[Problem Link](https://www.acmicpc.net/problem/8393) 
 
-### 성능 요약
+### Performance Summary
 
-메모리: 1112 KB, 시간: 0 ms
+Memory: 1112 KB, Time: 0 ms
 
-### 분류
+### Categories
 
-구현, 수학
+Implementation, Math
 
-### 제출 일자
+### Problem Description
 
-2021년 11월 26일 20:04:34
+<p>Given N, Add the 1~N.</p>
 
-### 문제 설명
+### Input
 
-<p>n이 주어졌을 때, 1부터 n까지 합을 구하는 프로그램을 작성하시오.</p>
+ <p>The first line given N (1 ≤ N ≤ 10,000).</p>
 
-### 입력 
+### Output
 
- <p>첫째 줄에 n (1 ≤ n ≤ 10,000)이 주어진다.</p>
-
-### 출력 
-
- <p>1부터 n까지 합을 출력한다.</p>
+ <p>Add 1~N</p>
 

@@ -1,30 +1,27 @@
 # [Bronze V] A+B - 3 - 10950 
 
-[문제 링크](https://www.acmicpc.net/problem/10950) 
+[Problem Link](https://www.acmicpc.net/problem/10950) 
 
-### 성능 요약
+### Performance Summary
 
-메모리: 1112 KB, 시간: 0 ms
+Memory: 1112 KB, Time: 0 ms
 
-### 분류
+### Categories
 
-구현, 사칙연산, 수학
+Implementation, Arithmetic, Math
 
-### 제출 일자
+### Problem Description
 
-2021년 11월 26일 19:58:27
+<p>Write a program that takes two integers A and B as input, and prints A+B.</p>
 
-### 문제 설명
+### Input
+<p>The first line contains the number of test cases T.</p>
 
-<p>두 정수 A와 B를 입력받은 다음, A+B를 출력하는 프로그램을 작성하시오.</p>
+<p>Each test case consists of one line, and each line contains A and B. (0 < A, B < 10
+</p>
 
-### 입력 
+### Output
 
- <p>첫째 줄에 테스트 케이스의 개수 T가 주어진다.</p>
+<p>For each test case, print A+B.</p>
 
-<p>각 테스트 케이스는 한 줄로 이루어져 있으며, 각 줄에 A와 B가 주어진다. (0 < A, B < 10)</p>
-
-### 출력 
-
- <p>각 테스트 케이스마다 A+B를 출력한다.</p>
 
