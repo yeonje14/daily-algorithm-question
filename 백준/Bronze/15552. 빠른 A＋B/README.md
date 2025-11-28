@@ -1,40 +1,35 @@
-# [Bronze IV] 빠른 A+B - 15552 
+# [Bronze IV] Fast A+B - 15552 
 
-[문제 링크](https://www.acmicpc.net/problem/15552) 
+[Problem Link](https://www.acmicpc.net/problem/15552) 
 
-### 성능 요약
+### Performance Summary
 
-메모리: 1112 KB, 시간: 284 ms
+Memory: 1112 KB, Time: 284 ms
 
-### 분류
+### Categories
 
-구현, 사칙연산, 수학
+Implementation, Arithmetic, Mathmetics
 
-### 제출 일자
+### Problem Description
 
-2025년 11월 28일 23:38:55
+<p>A common math problem is to determine in which quadrant a given point lies. The quadrants are numbered from 1 to 4, as shown in the figure below. “Quadrant n” means “The nth Quadrant”.
 
-### 문제 설명
+For example, a point with coordinates (12, 5) has both x and y values positive, so it lies in Quadrant 1. If x is negative and y is positive, the point lies in Quadrant 2.
 
-<p>본격적으로 for문 문제를 풀기 전에 주의해야 할 점이 있다. 입출력 방식이 느리면 여러 줄을 입력받거나 출력할 때 시간초과가 날 수 있다는 점이다.</p>
+Write a program that receives the coordinates (x, y) of a point and prints the quadrant number (1, 2, 3, or 4) in which the point is located. You may assume that x and y are never 0. </p>
 
-<p>C++을 사용하고 있고 <code>cin</code>/<code>cout</code>을 사용하고자 한다면, <code>cin.tie(NULL)</code>과 <code>sync_with_stdio(false)</code>를 둘 다 적용해 주고, <code>endl</code> 대신 개행문자(<code>\n</code>)를 쓰자. 단, 이렇게 하면 더 이상 <code>scanf</code>/<code>printf</code>/<code>puts</code>/<code>getchar</code>/<code>putchar</code> 등 C의 입출력 방식을 사용하면 안 된다.</p>
+### Input
 
-<p>Java를 사용하고 있다면, <code>Scanner</code>와 <code>System.out.println</code> 대신 <code>BufferedReader</code>와 <code>BufferedWriter</code>를 사용할 수 있다. <code>BufferedWriter.flush</code>는 맨 마지막에 한 번만 하면 된다.</p>
+<p>The first line contains an integer T, the number of test cases. The following T lines each contain two integers A and B separated by a single space.
 
-<p>Python을 사용하고 있다면, <code>input</code> 대신 <code>sys.stdin.readline</code>을 사용할 수 있다. 단, 이때는 맨 끝의 개행문자까지 같이 입력받기 때문에 문자열을 저장하고 싶을 경우 <code>.rstrip()</code>을 추가로 해 주는 것이 좋다.</p>
+If you are using C++ and want to use cin/cout, apply both cin.tie(NULL) and sync_with_stdio(false), and use newline character (\n) instead of endl. Note that after applying these settings, you should not use C-style input/output functions like scanf, printf, getchar, etc.
 
-<p>또한 입력과 출력 스트림은 별개이므로, 테스트케이스를 전부 입력받아서 저장한 뒤 전부 출력할 필요는 없다. 테스트케이스를 하나 받은 뒤 하나 출력해도 된다.</p>
+If you are using Java, you may use BufferedReader and BufferedWriter instead of Scanner and System.out.println. Also, call BufferedWriter.flush() only once at the end.
 
-<p>자세한 설명 및 다른 언어의 경우는 <a href="http://www.acmicpc.net/board/view/22716">이 글</a>에 설명되어 있다.</p>
+If you are using Python, you may use sys.stdin.readline instead of input. Since it also captures the trailing newline, you may add .rstrip() when storing the string input.</p>
 
-<p><a href="http://www.acmicpc.net/blog/view/55">이 블로그 글</a>에서 BOJ의 기타 여러 가지 팁을 볼 수 있다.</p>
+### Output
 
-### 입력 
+<p>For each test case, print the result of A + B, one result per line, in the same order as the input.</p>
 
- <p>첫 줄에 테스트케이스의 개수 T가 주어진다. T는 최대 1,000,000이다. 다음 T줄에는 각각 두 정수 A와 B가 주어진다. A와 B는 1 이상, 1,000 이하이다.</p>
-
-### 출력 
-
- <p>각 테스트케이스마다 A+B를 한 줄에 하나씩 순서대로 출력한다.</p>
 
