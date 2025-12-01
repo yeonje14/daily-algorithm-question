@@ -1,28 +1,24 @@
-# [Bronze V] 별 찍기 - 1 - 2438 
+# [Bronze V] Make the star - 1 - 2438 
 
-[문제 링크](https://www.acmicpc.net/problem/2438) 
+[Problem Link](https://www.acmicpc.net/problem/2438) 
 
-### 성능 요약
+### Performance Summary
 
-메모리: 1112 KB, 시간: 0 ms
+Memory: 1112 KB, Time: 0 ms
 
-### 분류
+### Categories
 
-구현
+Implementation
 
-### 제출 일자
+### Problem Description
 
-2021년 11월 26일 20:27:10
+<p>First Line is 1 star, Second line is 2 star, N line is N star. The problem is print the star</p>
 
-### 문제 설명
+### Input
 
-<p>첫째 줄에는 별 1개, 둘째 줄에는 별 2개, N번째 줄에는 별 N개를 찍는 문제</p>
+ <p>The first line is given N(1 ≤ N ≤ 100).</p>
 
-### 입력 
+### Output
 
- <p>첫째 줄에 N(1 ≤ N ≤ 100)이 주어진다.</p>
-
-### 출력 
-
- <p>첫째 줄부터 N번째 줄까지 차례대로 별을 출력한다.</p>
+ <p>First ~ N line is print the each star.</p>
 

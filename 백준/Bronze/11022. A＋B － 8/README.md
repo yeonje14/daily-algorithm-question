@@ -1,30 +1,26 @@
 # [Bronze V] A+B - 8 - 11022 
 
-[문제 링크](https://www.acmicpc.net/problem/11022) 
+[Problem Link](https://www.acmicpc.net/problem/11022) 
 
-### 성능 요약
+### Performance Summary
 
-메모리: 1112 KB, 시간: 0 ms
+Memory: 1112 KB, Time: 0 ms
 
-### 분류
+### Categories
 
-구현, 사칙연산, 수학
+Implementation, Arithmetic, Mathmetics
 
-### 제출 일자
+### Problem Description
 
-2021년 11월 26일 20:20:43
+<p>Take the two integer A and B. Then print the A + B.</p>
 
-### 문제 설명
+### Input
 
-<p>두 정수 A와 B를 입력받은 다음, A+B를 출력하는 프로그램을 작성하시오.</p>
+ <p>The first line given the Test case Size T.</p>
 
-### 입력 
+<p>Each test case is one line, Each line given A and B.(0 < A, B < 10)</p>
 
- <p>첫째 줄에 테스트 케이스의 개수 T가 주어진다.</p>
+### Output
 
-<p>각 테스트 케이스는 한 줄로 이루어져 있으며, 각 줄에 A와 B가 주어진다. (0 < A, B < 10)</p>
-
-### 출력 
-
- <p>각 테스트 케이스마다 "Case #x: A + B = C" 형식으로 출력한다. x는 테스트 케이스 번호이고 1부터 시작하며, C는 A+B이다.</p>
+ <p>Each test case print the format "Case #x: A + B = C". x is test case number and start the 1, C is A + B.</p>
 
