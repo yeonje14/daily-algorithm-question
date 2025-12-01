@@ -1,28 +1,26 @@
-# [Bronze V] 개수 세기 - 10807 
+# [Bronze V] Count - 10807 
 
-[문제 링크](https://www.acmicpc.net/problem/10807) 
+[Problem Link](https://www.acmicpc.net/problem/10807) 
 
-### 성능 요약
+### Performance Summary
 
-메모리: 1112 KB, 시간: 0 ms
+Memory: 1112 KB, Time: 0 ms
 
-### 분류
+### Categories
 
-구현
+Implementation
 
-### 제출 일자
+### Problem Description
 
-2025년 12월 2일 00:46:56
+<p>Given a total of N integers, write a program that finds the number of integers v.</p>
 
-### 문제 설명
+### Input
 
-<p>총 N개의 정수가 주어졌을 때, 정수 v가 몇 개인지 구하는 프로그램을 작성하시오.</p>
+ <p>The first line contains the number N (1 ≤ N ≤ 100). The second line contains integers separated by spaces. The third line contains the integer v to be found. The input integers and v must be greater than or equal to -100 and less than or equal to 100.</p>
 
-### 입력 
+### Output
 
- <p>첫째 줄에 정수의 개수 N(1 ≤ N ≤ 100)이 주어진다. 둘째 줄에는 정수가 공백으로 구분되어져있다. 셋째 줄에는 찾으려고 하는 정수 v가 주어진다. 입력으로 주어지는 정수와 v는 -100보다 크거나 같으며, 100보다 작거나 같다.</p>
+ <p> Output the number of v among the N integers given in the first line.</p>
 
-### 출력 
-
- <p>첫째 줄에 입력으로 주어진 N개의 정수 중에 v가 몇 개인지 출력한다.</p>
+<p>Given a total of N integers, write a program that finds the number of integers v.</p>
 
