@@ -1,30 +1,25 @@
-# [Bronze V] X보다 작은 수 - 10871 
+# [Bronze V] Less than X integer - 10871 
 
-[문제 링크](https://www.acmicpc.net/problem/10871) 
+[Problem Link](https://www.acmicpc.net/problem/10871) 
 
-### 성능 요약
+### Performance Summary
 
-메모리: 1112 KB, 시간: 0 ms
+Memory: 1112 KB, Time: 0 ms
 
-### 분류
+### Categories
 
-구현
+Implementation
 
-### 제출 일자
+### Problem Description
 
-2021년 11월 26일 20:40:41
+<p>Given a sequence A consisting of N integers and an integer X, write a program that prints all numbers in A less than X.</p>
 
-### 문제 설명
+### Input
 
-<p>정수 N개로 이루어진 수열 A와 정수 X가 주어진다. 이때, A에서 X보다 작은 수를 모두 출력하는 프로그램을 작성하시오.</p>
+<p>The first line contains N and X. (1 ≤ N, X ≤ 10,000)</p>
 
-### 입력 
+<p>The second line contains N integers that make up the sequence A. All integers are greater than or equal to 1 and less than or equal to 10,000.</p>
 
- <p>첫째 줄에 N과 X가 주어진다. (1 ≤ N, X ≤ 10,000)</p>
+### Output
 
-<p>둘째 줄에 수열 A를 이루는 정수 N개가 주어진다. 주어지는 정수는 모두 1보다 크거나 같고, 10,000보다 작거나 같은 정수이다.</p>
-
-### 출력 
-
- <p>X보다 작은 수를 입력받은 순서대로 공백으로 구분해 출력한다. X보다 작은 수는 적어도 하나 존재한다.</p>
-
+<p>Print the numbers less than X in the order they are entered, separated by spaces. There is at least one number less than X.</p>

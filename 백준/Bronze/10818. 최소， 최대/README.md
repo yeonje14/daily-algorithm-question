@@ -1,28 +1,23 @@
-# [Bronze III] 최소, 최대 - 10818 
+# [Bronze III] Min, Max - 10818 
 
-[문제 링크](https://www.acmicpc.net/problem/10818) 
+[Problem Link](https://www.acmicpc.net/problem/10818) 
 
-### 성능 요약
+### Performance Summary
 
-메모리: 8804 KB, 시간: 168 ms
+Memory: 8804 KB, Time: 168 ms
 
-### 분류
+### Categories
 
-수학, 구현
+Arithmetic, Implementation
 
-### 제출 일자
+### Problem Description
 
-2025년 12월 4일 17:49:17
+<p>Given the N integer. In this time you must print Minimun and Maximum.</p>
 
-### 문제 설명
+### Input
 
-<p>N개의 정수가 주어진다. 이때, 최솟값과 최댓값을 구하는 프로그램을 작성하시오.</p>
+ <p>The first line given N integer(1 ≤ N ≤ 1,000,000). The second line contains N integers separated by spaces. All integers are greater than or equal to -1,000,000 and less than or equal to 1,000,000.</p>
 
-### 입력 
+### Output
 
- <p>첫째 줄에 정수의 개수 N (1 ≤ N ≤ 1,000,000)이 주어진다. 둘째 줄에는 N개의 정수를 공백으로 구분해서 주어진다. 모든 정수는 -1,000,000보다 크거나 같고, 1,000,000보다 작거나 같은 정수이다.</p>
-
-### 출력 
-
- <p>첫째 줄에 주어진 정수 N개의 최솟값과 최댓값을 공백으로 구분해 출력한다.</p>
-
+<p>Print the minimum and maximum values ​​of the N integers given in the first line, separated by spaces.</p>
