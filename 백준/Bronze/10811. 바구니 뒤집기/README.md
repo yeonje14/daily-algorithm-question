@@ -1,36 +1,32 @@
-# [Bronze II] 바구니 뒤집기 - 10811 
+# [Bronze II] Basket Flip - 10811 
 
-[문제 링크](https://www.acmicpc.net/problem/10811) 
+[Problem Link](https://www.acmicpc.net/problem/10811) 
 
-### 성능 요약
+### Performance Summary
 
-메모리: 1112 KB, 시간: 0 ms
+Memory: 1112 KB, Time: 0 ms
 
-### 분류
+### Categories
 
-구현, 시뮬레이션
+Implementation, Simulation
 
-### 제출 일자
+### Problem Statement
 
-2025년 12월 6일 00:38:01
+<p>Dohyun has a total of N baskets, and each basket is numbered sequentially from 1 to N. The baskets are placed in a row, and the leftmost basket is called the 1st basket, the next basket is called the 2nd basket, ..., and the rightmost basket is called the Nth basket.</p>
 
-### 문제 설명
+<p>Dohyun plans to reverse the order of basket M. When reversing a basket, he determines the range within which he will reverse the order and reverses the order of te baskets within that range.</p>
 
-<p>도현이는 바구니를 총 N개 가지고 있고, 각각의 바구니에는 1번부터 N번까지 번호가 순서대로 적혀져 있다. 바구니는 일렬로 놓여져 있고, 가장 왼쪽 바구니를 1번째 바구니, 그 다음 바구니를 2번째 바구니, ..., 가장 오른쪽 바구니를 N번째 바구니라고 부른다. </p>
+<p>Given the instructions for reordering the baskets, write a program that reverses the order of basket M and then prints the numbers written on the baskets, starting from the leftmost basket.</p>
 
-<p>도현이는 앞으로 M번 바구니의 순서를 역순으로 만들려고 한다. 도현이는 한 번 순서를 역순으로 바꿀 때, 순서를 역순으로 만들 범위를 정하고, 그 범위에 들어있는 바구니의 순서를 역순으로 만든다.</p>
+### Input
 
-<p>바구니의 순서를 어떻게 바꿀지 주어졌을 때, M번 바구니의 순서를 역순으로 만든 다음, 바구니에 적혀있는 번호를 가장 왼쪽 바구니부터 출력하는 프로그램을 작성하시오.</p>
+ <p>The first line contains N(1 ≤ N ≤ 100) and M (1 ≤ M ≤ 100).</p>
 
-### 입력 
+<p>The second and subsequent M lines contain instructions for reversing the order of the baskets. The instructions are represented by i and j, which means reversing the order of the i-th basket from the left to the j-th basket (1 ≤ i ≤ j ≤ N).</p>
 
- <p>첫째 줄에 N (1 ≤ N ≤ 100)과 M (1 ≤ M ≤ 100)이 주어진다.</p>
+<p>Dohyun rearranges the baskets in the order given in the input.</p>
 
-<p>둘째 줄부터 M개의 줄에는 바구니의 순서를 역순으로 만드는 방법이 주어진다. 방법은 i j로 나타내고, 왼쪽으로부터 i번째 바구니부터 j번째 바구니의 순서를 역순으로 만든다는 뜻이다. (1 ≤ i ≤ j ≤ N)</p>
+### Output
 
-<p>도현이는 입력으로 주어진 순서대로 바구니의 순서를 바꾼다.</p>
-
-### 출력 
-
- <p>모든 순서를 바꾼 다음에, 가장 왼쪽에 있는 바구니부터 바구니에 적혀있는 순서를 공백으로 구분해 출력한다.</p>
+ <p>After rearranging all the baskets, output the order of the baskets, separated by spaces, starting from the leftmost basket.</p>
 
