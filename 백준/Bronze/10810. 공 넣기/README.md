@@ -1,36 +1,31 @@
-# [Bronze III] 공 넣기 - 10810 
+# [Bronze III] Ball Throw- 10810 
 
-[문제 링크](https://www.acmicpc.net/problem/10810) 
+[Problem Link](https://www.acmicpc.net/problem/10810) 
 
-### 성능 요약
+### Performance Summary.
 
-메모리: 1112 KB, 시간: 0 ms
+Memory: 1112 KB, Time: 0 ms
 
-### 분류
+### Categories
 
-구현, 시뮬레이션
+Implementation, simulation
 
-### 제출 일자
+### Problem Statement
 
-2025년 12월 5일 22:19:16
+<p>Dohyun has N baskets, each numbered 1 through N. He also has a large number of balls, each numbered 1 through N. The first basket contains no balls, and each basket can only hold one ball.</p>
 
-### 문제 설명
+<p>Dohyun is trying to place ball M. Each time he places a ball, he selects a range of baskets to place the ball in and places all balls with the same number in each selected basket. If a basket already contains a ball, he removes it and places a new ball in it. The baskets must be consecutive.</p>
 
-<p>도현이는 바구니를 총 N개 가지고 있고, 각각의 바구니에는 1번부터 N번까지 번호가 매겨져 있다. 또, 1번부터 N번까지 번호가 적혀있는 공을 매우 많이 가지고 있다. 가장 처음 바구니에는 공이 들어있지 않으며, 바구니에는 공을 1개만 넣을 수 있다.</p>
+<p>Given the instructions for placing the balls, write a program that calculates.</p>
 
-<p>도현이는 앞으로 M번 공을 넣으려고 한다. 도현이는 한 번 공을 넣을 때, 공을 넣을 바구니 범위를 정하고, 정한 바구니에 모두 같은 번호가 적혀있는 공을 넣는다. 만약, 바구니에 공이 이미 있는 경우에는 들어있는 공을 빼고, 새로 공을 넣는다. 공을 넣을 바구니는 연속되어 있어야 한다.</p>
+### Input 
 
-<p>공을 어떻게 넣을지가 주어졌을 때, M번 공을 넣은 이후에 각 바구니에 어떤 공이 들어 있는지 구하는 프로그램을 작성하시오.</p>
+<p>The first line contains N (1 ≤ N ≤ 100) and M (1 ≤ M ≤ 100).</p>
 
-### 입력 
+<p>The second and subsequent M lines contain instructions for placing balls. Each instruction consists of three integers, i, j, k, which indicate placing the ball with number k in each of the baskets from i to j. For example, 2 5 6 means placing ball 6 in each of the baskets from 2 to 5 (1 ≤ i ≤ j ≤ N, 1 ≤ k ≤ N).<</p>
 
- <p>첫째 줄에 N (1 ≤ N ≤ 100)과 M (1 ≤ M ≤ 100)이 주어진다.</p>
+<p>Dohyun places balls in the order given in the input.</p>
 
-<p>둘째 줄부터 M개의 줄에 걸쳐서 공을 넣는 방법이 주어진다. 각 방법은 세 정수 i j k로 이루어져 있으며, i번 바구니부터 j번 바구니까지에 k번 번호가 적혀져 있는 공을 넣는다는 뜻이다. 예를 들어, 2 5 6은 2번 바구니부터 5번 바구니까지에 6번 공을 넣는다는 뜻이다. (1 ≤ i ≤ j ≤ N, 1 ≤ k ≤ N)</p>
+### Output
 
-<p>도현이는 입력으로 주어진 순서대로 공을 넣는다.</p>
-
-### 출력 
-
- <p>1번 바구니부터 N번 바구니에 들어있는 공의 번호를 공백으로 구분해 출력한다. 공이 들어있지 않은 바구니는 0을 출력한다.</p>
-
+<p>Print the numbers of the balls in baskets 1 through N, separated by spaces. If there are no balls in the basket, print 0.</p>
