@@ -1,28 +1,23 @@
-# [Bronze V] 단어 길이 재기 - 2743 
+# [Bronze V] Measuring Word Length - 2743 
 
-[문제 링크](https://www.acmicpc.net/problem/2743) 
+[Problem Link](https://www.acmicpc.net/problem/2743) 
 
-### 성능 요약
+### Performance Summary
 
-메모리: 1112 KB, 시간: 0 ms
+Memory: 1112 KB, Time: 0 ms
 
-### 분류
+### Categories
 
-구현, 문자열
+Implementation, String
 
-### 제출 일자
+### Problem Statement
 
-2024년 11월 27일 13:21:08
+<p>Write a program that inputs a word consisting solely of letters and prints its length.</p>
 
-### 문제 설명
+### Input
 
-<p>알파벳으로만 이루어진 단어를 입력받아, 그 길이를 출력하는 프로그램을 작성하시오.</p>
+ <p>The first line contains a word consisting solely of lowercase and uppercase English letters. The maximum word is length is 100.</p>
 
-### 입력 
+### Output
 
- <p>첫째 줄에 영어 소문자와 대문자로만 이루어진 단어가 주어진다. 단어의 길이는 최대 100이다.</p>
-
-### 출력 
-
- <p>첫째 줄에 입력으로 주어진 단어의 길이를 출력한다.</p>
-
+ <p>Print the length of the word given as input on the first line.</p>

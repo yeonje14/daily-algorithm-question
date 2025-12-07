@@ -1,28 +1,23 @@
-# [Bronze V] 문자열 - 9086 
+# [Bronze V] String - 9086 
 
-[문제 링크](https://www.acmicpc.net/problem/9086) 
+[Problem Link](https://www.acmicpc.net/problem/9086) 
 
-### 성능 요약
+### Performance Summary
 
-메모리: 1112 KB, 시간: 0 ms
+Memory: 1112 KB, Time: 0 ms
 
-### 분류
+### Categories
 
-구현, 문자열
+Implementation, String
 
-### 제출 일자
+### Problem Statement
 
-2025년 12월 7일 14:05:51
+<p>Write a program that, given a string as input, outpus the first and last letters of string.</p>
 
-### 문제 설명
+### Input
 
-<p>문자열을 입력으로 주면 문자열의 첫 글자와 마지막 글자를 출력하는 프로그램을 작성하시오.</p>
+ <p>The first line of input contains the number of test cases, T (1 ≤ T ≤ 10). Each test case contains one string per line. The string consists of uppercase letters A through Z, with no spaces between letters, and the length of the string is less than 1000.</p>
 
-### 입력 
+### Output
 
- <p>입력의 첫 줄에는 테스트 케이스의 개수 T(1 ≤ T ≤ 10)가 주어진다. 각 테스트 케이스는 한 줄에 하나의 문자열이 주어진다. 문자열은 알파벳 A~Z 대문자로 이루어지며 알파벳 사이에 공백은 없으며 문자열의 길이는 1000보다 작다.</p>
-
-### 출력 
-
- <p>각 테스트 케이스에 대해서 주어진 문자열의 첫 글자와 마지막 글자를 연속하여 출력한다.</p>
-
+ <p>For each test case, output the first and last letters of the given string consecutively.</p>
