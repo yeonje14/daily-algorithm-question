@@ -1,28 +1,22 @@
-# [Bronze V] 아스키 코드 - 11654 
+# [Bronze V] ASCII Code - 11654 
 
-[문제 링크](https://www.acmicpc.net/problem/11654) 
+[Problem Link](https://www.acmicpc.net/problem/11654) 
 
-### 성능 요약
+### Performance Summary
 
-메모리: 1112 KB, 시간: 0 ms
+Memory: 1112 KB, Time: 0 ms
 
-### 분류
+### Categorie
 
-구현
+Implementation
 
-### 제출 일자
+### Problem Description
 
-2025년 12월 9일 15:43:43
+<p>Write a program that, given a lowercase letter, uppercase letter, or number 0-9, outputs the ASCII code of the given character.</p>
 
-### 문제 설명
+### Input
 
-<p>알파벳 소문자, 대문자, 숫자 0-9중 하나가 주어졌을 때, 주어진 글자의 아스키 코드값을 출력하는 프로그램을 작성하시오.</p>
+<p>The first line contains one of the following: a lowercase letter, uppercase letter, or number 0-9.</p>
 
-### 입력 
-
- <p>알파벳 소문자, 대문자, 숫자 0-9 중 하나가 첫째 줄에 주어진다.</p>
-
-### 출력 
-
- <p>입력으로 주어진 글자의 아스키 코드 값을 출력한다.</p>
-
+### Output
+<p>Output the ASCII code of the given character.</p>
