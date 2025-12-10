@@ -1,28 +1,23 @@
-# [Bronze IV] 숫자의 합 - 11720 
+# [Bronze IV] Numeric sum - 11720 
 
-[문제 링크](https://www.acmicpc.net/problem/11720) 
+[Problem Link](https://www.acmicpc.net/problem/11720) 
 
-### 성능 요약
+### Performance Summary
 
-메모리: 1112 KB, 시간: 0 ms
+Memory: 1112 KB, Time: 0 ms
 
-### 분류
+### Categories
 
-구현, 수학, 문자열
+Implementation, Mathmetic, String
 
-### 제출 일자
+### Problem Description
 
-2025년 12월 10일 15:59:44
+<p>N numbers are given without spaces. Write a program that sums these numbers and prints them. </p>
 
-### 문제 설명
+### Input
 
-<p>N개의 숫자가 공백 없이 쓰여있다. 이 숫자를 모두 합해서 출력하는 프로그램을 작성하시오.</p>
+ <p>The first line contains the number N(1 ≤ N ≤ 100). The second line contains N numbers without space.</p>
 
-### 입력 
+### Output
 
- <p>첫째 줄에 숫자의 개수 N (1 ≤ N ≤ 100)이 주어진다. 둘째 줄에 숫자 N개가 공백없이 주어진다.</p>
-
-### 출력 
-
- <p>입력으로 주어진 숫자 N개의 합을 출력한다.</p>
-
+ <p>Print the sum of the N numbers given as input.</p>
