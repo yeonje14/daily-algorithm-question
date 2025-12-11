@@ -1,30 +1,26 @@
-# [Bronze II] 알파벳 찾기 - 10809 
+# [Bronze II] Alphabet Searching - 10809 
 
-[문제 링크](https://www.acmicpc.net/problem/10809) 
+[Problem Link](https://www.acmicpc.net/problem/10809) 
 
-### 성능 요약
+### Performance Summary
 
-메모리: 1112 KB, 시간: 0 ms
+Memory: 1112 KB, Time: 0 ms
 
-### 분류
+### Categorie
 
-구현, 문자열
+Implementation, String
 
-### 제출 일자
+### Problem Description 
 
-2025년 12월 11일 22:41:16
+<p>Given s word to only form the Alphabet lower case. Each alphabet, Write a program that prints the position of the first occurrence of a word if it is included in the word, or -1 if it is not included.</ㅔ>
 
-### 문제 설명
+### Input
 
-<p>알파벳 소문자로만 이루어진 단어 S가 주어진다. 각각의 알파벳에 대해서, 단어에 포함되어 있는 경우에는 처음 등장하는 위치를, 포함되어 있지 않은 경우에는 -1을 출력하는 프로그램을 작성하시오.</p>
+ <p>First line given S word. The word length is not over the 100, It is only make the alphabet lower case.</p>
 
-### 입력 
+### Output
 
- <p>첫째 줄에 단어 S가 주어진다. 단어의 길이는 100을 넘지 않으며, 알파벳 소문자로만 이루어져 있다.</p>
+ <p>About each alphabet, appeard a location, appeard b location, .... first appeard z location has divide space and print.</p>
 
-### 출력 
-
- <p>각각의 알파벳에 대해서, a가 처음 등장하는 위치, b가 처음 등장하는 위치, ... z가 처음 등장하는 위치를 공백으로 구분해서 출력한다.</p>
-
-<p>만약, 어떤 알파벳이 단어에 포함되어 있지 않다면 -1을 출력한다. 단어의 첫 번째 글자는 0번째 위치이고, 두 번째 글자는 1번째 위치이다.</p>
+<p>If, some alphabet has not contain the word. then print -1. The word of first alphabet is 0 location, second alphabet is 1 location.</p>
 
