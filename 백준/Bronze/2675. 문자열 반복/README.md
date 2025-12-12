@@ -1,30 +1,22 @@
-# [Bronze II] 문자열 반복 - 2675 
+# [Bronze II] Iterate string - 2675 
 
-[문제 링크](https://www.acmicpc.net/problem/2675) 
+[Problem Link](https://www.acmicpc.net/problem/2675) 
 
-### 성능 요약
+### Performance Summary
 
-메모리: 1112 KB, 시간: 0 ms
+Memory: 1112 KB, Time: 0 ms
 
-### 분류
+### Categorie
 
-구현, 문자열
+Implementation, String
 
-### 제출 일자
+### Problem Description
 
-2025년 12월 12일 22:55:54
+<p>Wrote a program that inputs a string S, repeats eacj character R time, creates a new string P, and then outputs it. That is, repeat the first character R times, the second character R times, and so on to create P. S contains only the characters "alphanumberic" from the QR code. </p>
 
-### 문제 설명
+### Input
+ <p>The first line contains the number of test cases T(1 ≤ T ≤ 1,000). Each test case contains the number of iterations R (1 ≤ R ≤ 8) and a space-separated string S. The length of S must be at least 1 and no more than 20 characters.</p>
 
-<p>문자열 S를 입력받은 후에, 각 문자를 R번 반복해 새 문자열 P를 만든 후 출력하는 프로그램을 작성하시오. 즉, 첫 번째 문자를 R번 반복하고, 두 번째 문자를 R번 반복하는 식으로 P를 만들면 된다. S에는 QR Code "alphanumeric" 문자만 들어있다.</p>
+### Output
 
-<p>QR Code "alphanumeric" 문자는 <code>0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ\$%*+-./:</code> 이다.</p>
-
-### 입력 
-
- <p>첫째 줄에 테스트 케이스의 개수 T(1 ≤ T ≤ 1,000)가 주어진다. 각 테스트 케이스는 반복 횟수 R(1 ≤ R ≤ 8), 문자열 S가 공백으로 구분되어 주어진다. S의 길이는 적어도 1이며, 20글자를 넘지 않는다. </p>
-
-### 출력 
-
- <p>각 테스트 케이스에 대해 P를 출력한다.</p>
-
+ <p>For each test case, output P.각 테스트 케이스에 대해 P를 출력한다.</p>
