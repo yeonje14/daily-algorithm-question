@@ -1,32 +1,28 @@
-# [Bronze II] 상수 - 2908 
+# [Bronze II] Constant - 2908 
 
-[문제 링크](https://www.acmicpc.net/problem/2908) 
+[Problem Link](https://www.acmicpc.net/problem/2908) 
 
-### 성능 요약
+### Performance Summary
 
-메모리: 1112 KB, 시간: 0 ms
+Memory: 1112 KB, Time: 0 ms
 
-### 분류
+### Categorie
 
-수학, 구현
+Mathmetic, Implementation
 
-### 제출 일자
+### Problem Description
 
-2025년 8월 14일 19:06:57
+<p>Sang-geun's younger brotherm Sang-soo, is truly terrible at math. He has trouble reading numbers. To help Sang-soo, who struggles with math, Sang-geun gave him a problem that required comparing the magnitudes of numbers. Sang-geun wrote two three-digit numbers on the board. Then he asked Sang-soo to name the larger number.</p>
 
-### 문제 설명
+<p>Constant reads numbers backwards, unlike most people. For example, if you write 734 and 893 on the board Constant reads them as 437 and 398. Therefore, Constant will say that 437 is the larger of the two numbers.</p>
 
-<p>상근이의 동생 상수는 수학을 정말 못한다. 상수는 숫자를 읽는데 문제가 있다. 이렇게 수학을 못하는 상수를 위해서 상근이는 수의 크기를 비교하는 문제를 내주었다. 상근이는 세 자리 수 두 개를 칠판에 써주었다. 그 다음에 크기가 큰 수를 말해보라고 했다.</p>
+<p>Write a program that outputs Constant's answer when given two numbers.</p>
 
-<p>상수는 수를 다른 사람과 다르게 거꾸로 읽는다. 예를 들어, 734와 893을 칠판에 적었다면, 상수는 이 수를 437과 398로 읽는다. 따라서, 상수는 두 수중 큰 수인 437을 큰 수라고 말할 것이다.</p>
+### Input
 
-<p>두 수가 주어졌을 때, 상수의 대답을 출력하는 프로그램을 작성하시오.</p>
+ <p>The first line contains two numbers, A and B, written by Sanggeun on the board. The two numbers are three-digit numbers, unequal, and do not contain zeros.</p>
 
-### 입력 
+### Output
 
- <p>첫째 줄에 상근이가 칠판에 적은 두 수 A와 B가 주어진다. 두 수는 같지 않은 세 자리 수이며, 0이 포함되어 있지 않다.</p>
-
-### 출력 
-
- <p>첫째 줄에 상수의 대답을 출력한다.</p>
+ <p>The first line prints the answer to the constant.</p>
 
