@@ -1,28 +1,24 @@
-# [Bronze III] 그대로 출력하기 - 11718 
+# [Bronze III] Print as is - 11718 
 
-[문제 링크](https://www.acmicpc.net/problem/11718) 
+[Problem Link](https://www.acmicpc.net/problem/11718) 
 
-### 성능 요약
+### Performance Summary
 
-메모리: 1112 KB, 시간: 0 ms
+Memory: 1112 KB, Time: 0 ms
 
-### 분류
+### Categories
 
-구현, 문자열
+Implementation, String
 
-### 제출 일자
+### Problem Description
 
-2025년 12월 19일 23:44:26
+<p>Write a program that outputs the input as it is received.</p>
 
-### 문제 설명
+### Input
 
-<p>입력 받은 대로 출력하는 프로그램을 작성하시오.</p>
+ <p>The input is given. The input consists of up to 100 lines, consisting only of lowercase and uppercase letters, spaces, and numbers. Each line must not exceed 100 characters, and no blank lines are allowed. Furthermore, each line must not begin or end with a space.</p>
 
-### 입력 
+### Output
 
- <p>입력이 주어진다. 입력은 최대 100줄로 이루어져 있고, 알파벳 소문자, 대문자, 공백, 숫자로만 이루어져 있다. 각 줄은 100글자를 넘지 않으며, 빈 줄은 주어지지 않는다. 또, 각 줄은 공백으로 시작하지 않고, 공백으로 끝나지 않는다.</p>
-
-### 출력 
-
- <p>입력받은 그대로 출력한다.</p>
+ <p>Output the input as it is received.</p>
 
