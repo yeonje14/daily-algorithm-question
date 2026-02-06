@@ -1,28 +1,23 @@
-# [Bronze V] 새싹 - 25083 
+# [Bronze V] Sprout - 25083 
 
-[문제 링크](https://www.acmicpc.net/problem/25083) 
+[Problem Link](https://www.acmicpc.net/problem/25083) 
 
-### 성능 요약
+### Performance Summary
 
-메모리: 1112 KB, 시간: 0 ms
+Memory: 1112 KB, Time: 0 ms
 
-### 분류
+### Categories
 
-구현
+Implementation
 
-### 제출 일자
+### Problem Description
 
-2026년 2월 6일 15:48:32
+<p>Output the sprout as shown in the example below.</p>
 
-### 문제 설명
+### Input
 
-<p>아래 예제와 같이 새싹을 출력하시오.</p>
+ <p>There is no input.</p>
 
-### 입력 
+### Output
 
- <p>입력은 없다.</p>
-
-### 출력 
-
- <p>새싹을 출력한다.</p>
-
+ <p>Print the sprout.</p>
