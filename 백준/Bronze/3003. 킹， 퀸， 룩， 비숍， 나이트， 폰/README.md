@@ -1,4 +1,4 @@
-[Bronze V] King, Queen, Rook, Bishop, Knight, Pawn - 3003
+# [Bronze V] King, Queen, Rook, Bishop, Knight, Pawn - 3003
 ### Problem Link: https://www.acmicpc.net/problem/3003
 
 ### Performance Summary
