@@ -1,28 +1,24 @@
-# [Bronze III] 별 찍기 - 7 - 2444 
+# [Bronze III] Star Printing - 7 - 2444 
 
-[문제 링크](https://www.acmicpc.net/problem/2444) 
+[Problem Link](https://www.acmicpc.net/problem/2444) 
 
-### 성능 요약
+### Performance Summary
 
-메모리: 1112 KB, 시간: 0 ms
+Memory: 1112 KB, Time: 0 ms
 
-### 분류
+### Categories
 
-구현
+Implementation
 
-### 제출 일자
+### Problem Description
 
-2026년 2월 21일 18:00:19
+<p>Analyze the pattern in the examples and print the stars accordingly.</p>
 
-### 문제 설명
+### Input 
 
-<p>예제를 보고 규칙을 유추한 뒤에 별을 찍어 보세요.</p>
+ <p>The first line contains an integer N (1 ≤ N ≤ 100)</p>
 
-### 입력 
+### Print
 
- <p>첫째 줄에 N(1 ≤ N ≤ 100)이 주어진다.</p>
-
-### 출력 
-
- <p>첫째 줄부터 2×N-1번째 줄까지 차례대로 별을 출력한다.</p>
+ <p>Print the stars from the 1st line to the (2 * N - 1)th line in sequence.</p>
 
