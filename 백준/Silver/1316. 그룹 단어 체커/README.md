@@ -1,30 +1,25 @@
-# [Silver V] 그룹 단어 체커 - 1316 
+# [Silver V] Group Word Checker - 1316 
 
-[문제 링크](https://www.acmicpc.net/problem/1316) 
+[Problem Link](https://www.acmicpc.net/problem/1316) 
 
-### 성능 요약
+### Performance Summary
 
-메모리: 1112 KB, 시간: 0 ms
+Memory: 1112 KB, Time: 0 ms
 
-### 분류
+### Categories
 
-구현, 문자열
+Implementation, String
 
-### 제출 일자
+### Problem Description
 
-2026년 3월 24일 15:01:16
+<p>A group word is a word where, for every character present in the word, all occurrences of each character appear consecutively. For example, "ccazzzzbb" is a group word because 'c', 'a', 'z', and 'b' all appear consecutively, and "kin" is also a group word because 'k', 'i', and 'n' appear consecutively. However, "aabbbccb" is not a group word because the character 'b' appears separated.</p>
 
-### 문제 설명
+<p>Write a program that takes N words as input and outputs the number of group words.</p>
 
-<p>그룹 단어란 단어에 존재하는 모든 문자에 대해서, 각 문자가 연속해서 나타나는 경우만을 말한다. 예를 들면, ccazzzzbb는 c, a, z, b가 모두 연속해서 나타나고, kin도 k, i, n이 연속해서 나타나기 때문에 그룹 단어이지만, aabbbccb는 b가 떨어져서 나타나기 때문에 그룹 단어가 아니다.</p>
+### Input
 
-<p>단어 N개를 입력으로 받아 그룹 단어의 개수를 출력하는 프로그램을 작성하시오.</p>
+<p>The first line contains the number of words, N. N is a natural number less than or equal to 100. From the second line onwards, N lines of words are given. The words consist only of lowercase alphabet letters, there are no duplicate words, and the maximum length is 100.</p>
 
-### 입력 
+### Output
 
- <p>첫째 줄에 단어의 개수 N이 들어온다. N은 100보다 작거나 같은 자연수이다. 둘째 줄부터 N개의 줄에 단어가 들어온다. 단어는 알파벳 소문자로만 되어있고 중복되지 않으며, 길이는 최대 100이다.</p>
-
-### 출력 
-
- <p>첫째 줄에 그룹 단어의 개수를 출력한다.</p>
-
+<p>Output the number of group words on the first line.</p>
